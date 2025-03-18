@@ -2,5 +2,5 @@
 /data
 
 # Junk Files
-.DF_Store
+.DS_Store
 .ipynb_checkpoints
